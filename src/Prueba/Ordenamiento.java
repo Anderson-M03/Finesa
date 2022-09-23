@@ -23,7 +23,7 @@ public class Ordenamiento {
 	
 	public static void main(String args[]) {
 		Ordenamiento ordenamiento = new Ordenamiento();
-		int arr[] = {3,2,1};
+		int arr[] = {5,4,3,2,1};
 		ordenamiento.ordenarArray(arr, "Menor a mayor");
 	}
 
