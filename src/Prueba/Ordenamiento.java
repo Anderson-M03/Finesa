@@ -66,5 +66,4 @@ public class Ordenamiento {
 		String ordenar = JOptionPane.showInputDialog("Digite criterio de ordenamiento");
 		ordenamiento.ordenarArray(arr, ordenar);
 	}
-
 }
